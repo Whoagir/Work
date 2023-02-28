@@ -2,7 +2,8 @@
 1. npm i -g create-react-app
 2. cd ..
 3. npm install react-icons --save
-4. npm i react-router-dom
-5. npm start
+4. npm i --save react-p5
+5. npm i react-router-dom
+6. npm start
 
 Happy hacking, Have a nice day!
